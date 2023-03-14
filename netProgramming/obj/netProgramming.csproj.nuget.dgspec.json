@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/seojiung/Desktop/netProgramming/netProgramming/netProgramming.csproj": {}
+    "/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/netProgramming.csproj": {}
   },
   "projects": {
-    "/Users/seojiung/Desktop/netProgramming/netProgramming/netProgramming.csproj": {
+    "/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/netProgramming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/seojiung/Desktop/netProgramming/netProgramming/netProgramming.csproj",
+        "projectUniqueName": "/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/netProgramming.csproj",
         "projectName": "netProgramming",
-        "projectPath": "/Users/seojiung/Desktop/netProgramming/netProgramming/netProgramming.csproj",
+        "projectPath": "/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/netProgramming.csproj",
         "packagesPath": "/Users/seojiung/.nuget/packages/",
-        "outputPath": "/Users/seojiung/Desktop/netProgramming/netProgramming/obj/",
+        "outputPath": "/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/seojiung/.nuget/NuGet/NuGet.Config"

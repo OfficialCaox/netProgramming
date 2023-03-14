@@ -1,0 +1,15 @@
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/obj/Debug/net7.0/netProgramming.csproj.AssemblyReference.cache
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/obj/Debug/net7.0/netProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/obj/Debug/net7.0/netProgramming.AssemblyInfoInputs.cache
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/obj/Debug/net7.0/netProgramming.AssemblyInfo.cs
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/obj/Debug/net7.0/netProgramming.csproj.CoreCompileInputs.cache
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/bin/Debug/net7.0/netProgramming
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/bin/Debug/net7.0/netProgramming.deps.json
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/bin/Debug/net7.0/netProgramming.runtimeconfig.json
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/bin/Debug/net7.0/netProgramming.dll
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/bin/Debug/net7.0/netProgramming.pdb
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/obj/Debug/net7.0/netProgramming.dll
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/obj/Debug/net7.0/refint/netProgramming.dll
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/obj/Debug/net7.0/netProgramming.pdb
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/obj/Debug/net7.0/netProgramming.genruntimeconfig.cache
+/Users/seojiung/Documents/GitHub/netProgramming/netProgramming/obj/Debug/net7.0/ref/netProgramming.dll
